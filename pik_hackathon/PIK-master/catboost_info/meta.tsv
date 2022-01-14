@@ -1,0 +1,5 @@
+name	experiment
+iterCount	10000
+learnErrorLog	catboost_info/learn_error.tsv
+timeLeft	catboost_info/time_left.tsv
+loss	RMSE	min

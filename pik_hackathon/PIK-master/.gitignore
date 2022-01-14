@@ -1,0 +1,16 @@
+
+.ipynb_checkpoints/baseline-checkpoint.ipynb
+.ipynb_checkpoints/mvp-checkpoint.ipynb
+.ipynb_checkpoints/mvp_tpot-checkpoint.ipynb
+.ipynb_checkpoints/tpot_optimized-checkpoint.ipynb
+.ipynb_checkpoints/mvp-featuretools-checkpoint.ipynb
+.ipynb_checkpoints/regression-checkpoint.ipynb
+<<<<<<< HEAD
+.ipynb_checkpoints/tpot_optimized-checkpoint.ipynb
+Data/~$comment.xlsx
+dask-worker-space/purge.lock
+dask-worker-space/global.lock
+=======
+.ipynb_checkpoints/regression-tuning-checkpoint.ipynb
+Data/~$comment.xlsx
+>>>>>>> f8f534b8c713af1c51d01b3a08dbdaf333f7f6b8
